@@ -1,0 +1,38 @@
+body {
+    width: 500px;
+}
+
+.resClass {
+    background-color: white;
+    border: solid;
+    height: 50px;
+    font-size: 20px;
+}
+
+.buttonClass {
+    background-color: #cccccc;
+    color: black;
+    width: 25%;
+    height: 50px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+
+#btnBsp, #btn0 {
+    width: 50%;
+}
+
+#btnSum, #btnSub, #btnMul, #btnDiv, #btnEql {
+    background-color: #0066ff;
+    color: white;
+}
+
+#btnClr{
+    background-color: red;
+}
+
+#btnBsp {
+    background-color: black;
+    color: white;
+}
